@@ -20,13 +20,14 @@ Bem-vindo à Página do Bootcamp da Escola DNC! Este projeto, desenvolvido intei
 1 Clone o Repositório: https://github.com/GabSJ91/Conversor-de-Medidas.git  <br />
 
 2 Personalize o Conteúdo: Substitua o conteúdo de index.html com informações específicas sobre o bootcamp.
-Modifique o formulário de contato para atender às suas necessidades específicas.  <br />
 
-3 Personalize o Estilo: Faça alterações nos estilos em /css para atender às suas preferências visuais. <br />
+3 Modifique o formulário de contato para atender às suas necessidades específicas.  <br />
 
-4 Configure o Formulário: Integre o formulário de contato com uma solução de backend (por exemplo, Formspree) para receber os dados enviados.
+4 Personalize o Estilo: Faça alterações nos estilos em /css para atender às suas preferências visuais. <br />
 
-5 Abra o arquivo index.html em um navegador para visualizar a página do bootcamp.
+5 Configure o Formulário: Integre o formulário de contato com uma solução de backend (por exemplo, Formspree) para receber os dados enviados.
+
+6 Abra o arquivo index.html em um navegador para visualizar a página do bootcamp.
 
 ## Tecnologias Utilizadas<br />
 
