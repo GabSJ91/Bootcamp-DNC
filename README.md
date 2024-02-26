@@ -19,7 +19,7 @@ Bem-vindo à Página do Bootcamp da Escola DNC! Este projeto, desenvolvido intei
 <br />
 1 Clone o Repositório: https://github.com/GabSJ91/Conversor-de-Medidas.git  <br />
 
-2 Personalize o Conteúdo: Substitua o conteúdo de index.html com informações específicas sobre o bootcamp.
+2 Personalize o Conteúdo: Substitua o conteúdo de index.html com informações específicas sobre o bootcamp. <br />
 
 3 Modifique o formulário de contato para atender às suas necessidades específicas.  <br />
 
